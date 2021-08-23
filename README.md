@@ -19,5 +19,5 @@ Please raise doubts on the appropriate assignment thread on moodle.
 - **Make sure you run your Jupyter notebook before committing, to save all outputs.**
 
 ## Questions and Images
-- Refer to this [drive link](https://drive.google.com/file/d/1-ZlG6d36gkYtCSJIuWKyAp8dgIq2u1tV/view?usp=sharing) for finding the question pdf and  this [drive link](https://drive.google.com/drive/folders/1A2dg0mqEuLUr7ZwoYigX0zAepU004JCQ?usp=sharing) for the images folder.
+- Refer to this [Assignment 1](https://drive.google.com/drive/folders/13iZe8Zy0Xlzfd1QhBVUY61GupQN5WMH5?usp=sharing) for questions pdf and images folder.
 - New questions will be added periodically as and when new topics are covered in the class.
